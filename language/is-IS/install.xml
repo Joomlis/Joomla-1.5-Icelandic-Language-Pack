@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" client="site" type="language" method="upgrade">
+    <name>Icelandic (IS)</name>
+	<tag>is-IS</tag>
+	<version>1.5.14.v1</version>
+	<creationDate>2009-08-06</creationDate>
+	<author>Joomlís!</author>
+	<authorEmail>joomlis@joomlis.net</authorEmail>
+	<authorUrl>http://www.joomlis.net</authorUrl>
+	<copyright>Copyright (C) 2005 - 2008 Open Source Matters. All rights reserved!</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>Icelandic language pack for Joomla! 1.5.x - Site (Frontend)
+	Íslenskur tungumála pakki fyrir Joomla 1.5.x - Síðu (Framhlutann)
+	Til að virkja hann skaltu fara í Viðbætur (Extensions) - Tungumál (Language manager) og gera íslenskuna gildandi (Default)
+	</description>
+    <files>
+        <filename>is-IS.com_banners.ini</filename>
+        <filename>is-IS.com_contact.ini</filename>
+        <filename>is-IS.com_content.ini</filename>
+        <filename>is-IS.com_frontpage.ini</filename>
+        <filename>is-IS.com_mailto.ini</filename>
+        <filename>is-IS.com_media.ini</filename>
+        <filename>is-IS.com_messages.ini</filename>
+        <filename>is-IS.com_newsfeeds.ini</filename>
+        <filename>is-IS.com_poll.ini</filename>
+        <filename>is-IS.com_search.ini</filename>
+        <filename>is-IS.com_user.ini</filename>
+        <filename>is-IS.com_weblinks.ini</filename>
+        <filename>is-IS.com_wrapper.ini</filename>
+        <filename>is-IS.ignore.php</filename>
+        <filename>is-IS.ini</filename>
+        <filename>is-IS.mod_archive.ini</filename>
+        <filename>is-IS.mod_banners.ini</filename>
+        <filename>is-IS.mod_breadcrumbs.ini</filename>
+        <filename>is-IS.mod_custom.ini</filename>
+        <filename>is-IS.mod_feed.ini</filename>
+        <filename>is-IS.mod_footer.ini</filename>
+        <filename>is-IS.mod_latestnews.ini</filename>
+        <filename>is-IS.mod_login.ini</filename>
+        <filename>is-IS.mod_mainmenu.ini</filename>
+        <filename>is-IS.mod_mostread.ini</filename>
+        <filename>is-IS.mod_newsflash.ini</filename>
+        <filename>is-IS.mod_online.ini</filename>
+        <filename>is-IS.mod_poll.ini</filename>
+        <filename>is-IS.mod_random_image.ini</filename>
+        <filename>is-IS.mod_related_items.ini</filename>
+        <filename>is-IS.mod_search.ini</filename>
+        <filename>is-IS.mod_sections.ini</filename>
+        <filename>is-IS.mod_stats.ini</filename>
+        <filename>is-IS.mod_syndicate.ini</filename>
+        <filename>is-IS.mod_whosonline.ini</filename>
+        <filename>is-IS.mod_wrapper.ini</filename>
+		<filename>is-IS.plg_content_pagebreak.ini</filename>
+        <filename>is-IS.plg_content_vote.ini</filename>
+        <filename>is-IS.plg_search_categories.ini</filename>
+        <filename>is-IS.plg_search_contacts.ini</filename>
+        <filename>is-IS.plg_search_content.ini</filename>
+        <filename>is-IS.plg_search_newsfeeds.ini</filename>
+        <filename>is-IS.plg_search_sections.ini</filename>
+        <filename>is-IS.plg_search_weblinks.ini</filename>
+        <filename>is-IS.plg_system_debug.ini</filename>
+        <filename>is-IS.tpl_beez.ini</filename>
+  	    <filename>is-IS.tpl_rhuk_milkyway.ini</filename>
+  	    <filename>is-IS.tpl_ja_purity.ini</filename>
+	    <filename>index.html</filename>
+        <filename file="meta">is-IS.xml</filename>
+    </files>
+    <params />
+</install>
