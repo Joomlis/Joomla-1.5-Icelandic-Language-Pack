@@ -2,7 +2,7 @@
 
  Það eru fleiri en ein leið til að setja þetta upp.
 
-## SSH + GIT, ferð í tungumalamöppu Joomla (language) og sendir skipunina.
+## SSH + GIT, ferð í tungumalamöppu Joomla (administrator/language) og sendir skipunina.
  # git clone git://github.com/Joomlis/Joomla-1.5-Icelandic-Language-Pack.git is-IS -b admin
 ## Ef þú notar þessa aðferð, þá uppfæriru pakkann með því að fara inní is-IS möppuna og keyra
  # git pull
